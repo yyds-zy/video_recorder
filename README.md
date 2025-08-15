@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆或下载项目
-git clone <your-repo-url>
+git clone https://github.com/yyds-zy/video_recorder.git
 cd video_recorder
 
 # 创建虚拟环境 (可选但推荐)
