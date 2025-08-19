@@ -128,4 +128,4 @@ with gr.Blocks(css=css, title="简易摄像头录制器") as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)

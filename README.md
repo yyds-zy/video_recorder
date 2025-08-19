@@ -1,6 +1,7 @@
 # 🎥 视频录制软件 (Gradio版本)
 
 一个基于 Gradio 框架开发的现代化视频录制工具，支持摄像头选择、实时预览、镜像显示和高质量MP4录制。
+![项目结构](docs/images/app.png)
 
 ## ✨ 主要功能
 
@@ -42,9 +43,12 @@ pip install -r requirements.txt
 #### 方法二：手动安装
 
 ```bash
-pip install gradio==4.44.0
-pip install opencv-python==4.8.1.78
-pip install numpy==1.24.3
+pip install gradio==5.42.0
+pip install opencv-python==4.10.0.84
+pip install numpy==2.3.2
+ 
+ # 下载慢可以添加清华源
+ -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ### 3. 运行程序

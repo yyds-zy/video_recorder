@@ -1,8 +1,8 @@
 # 视频录制软件依赖包
 # 核心依赖
-gradio==4.44.0
-opencv-python==4.8.1.78
-numpy==1.24.3
+pip install gradio==5.42.0
+pip install opencv-python==4.10.0.84
+pip install numpy==2.3.2
 
 # 可选依赖（用于更好的性能）
 # Pillow>=9.0.0  # 图像处理
